@@ -1,3 +1,8 @@
+print(20*"=")
+print("  Pesawat Tempur  ")
+print("Bagas Dwi Prasetyo")
+print(20*"=" + "\n")
+
 while True:
     def nama():
         print('Pesawat Tempur')
